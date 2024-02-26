@@ -1,0 +1,28 @@
+@font-face {
+    font-family: M1;
+    src: url('Charm.ttf');
+}
+
+@font-face {
+    font-family: M2;
+    src: url('Pattaya-Regular.ttf');
+}
+
+h1 {
+    color: brown;
+    font-family: M2;
+}
+p{
+    font-family: M1;
+    font-size: 18px;
+}
+
+p {
+    font-family: M1;
+    font-size: 18px;
+}
+
+body {
+    background-color: #96FED8;
+    text-align: center;
+}
